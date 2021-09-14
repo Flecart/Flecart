@@ -4,4 +4,17 @@
 - 💞️ I'm studying now!
 - 📫 Go study NEERD
 
+### My public Stats
+![Flecart's GitHub stats](https://github-readme-stats.vercel.app/api?username=flecart&show_icons=true&hide=stars)
 
+
+
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flecart&langs_count=3)
+
+Hehe Python is so comfy
