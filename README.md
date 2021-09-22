@@ -15,6 +15,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flecart&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flecart&langs_count=1)
 
 Hehe Python is so comfy
