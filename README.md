@@ -2,8 +2,9 @@
 - 👀 I’m interested in Mathematics and Computer Science!
 - 🌱 I'm studying Computer Science at University of Bologna
 - 💞️ What i am learning about now! 
-  -   Logic (Propositional and first order logic, natural deduction)
-  -   Computer Architecture (What is inside the computer? with a practical focus on projects, see nand2tetris.com
+  -   Algorithms and Data structures, with a focus on Competitive programming as a viable way to implement the
+  algorithms studied in theory.
+  -   Linear Algebra (Vector Spaces, matrices + some attention about Group Theory and abstract algebra)
   -   Real Analysis and Calculus
 
 ### My public Stats
