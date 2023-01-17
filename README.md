@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics and Computer Science!
 - 🌱 I'm studying Computer Science at University of Bologna
 - 💞️ What i am learning about now! 
-  - OLambda calculus
+  - Lambda calculus
   - Probability and statistics
   - Operative Systems
   - Computer Networks
