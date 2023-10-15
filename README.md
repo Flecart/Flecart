@@ -4,6 +4,8 @@
 - 💞️ What i am learning about now! 
   - Deep Learning
   - Machine Learning
+  - Natural Language Processing
+  - Software engineering
 ### My public Stats
 ![Flecart's GitHub stats](https://github-readme-stats.zohan.tech/api?username=flecart&show_icons=true&hide=stars)
 
