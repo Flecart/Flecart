@@ -2,7 +2,8 @@
 - 👀 I’m interested in Mathematics and Computer Science with a current focus on LLMs' emergent properties in social interactions!!
 - 🌱 I'm studying Computer Science at University of Bologna
 - 💞️ What i am learning about now! 
-  - Deep Learning
+  - Cybersecurity
+  - Theoretical Computer Science
   - Machine Learning
   - Natural Language Processing
   - Theory of Mind in LLMs.
