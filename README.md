@@ -3,7 +3,6 @@
 - 🌱 I'm studying Computer Science at University of Bologna
 - 💞️ What i am learning about now! 
   - Cybersecurity
-  - Theoretical Computer Science
   - Machine Learning
   - Natural Language Processing
   - Theory of Mind in LLMs.
